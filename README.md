@@ -14,7 +14,10 @@
   * The video should be turned on to show the face and hands.
   * See the group assignment below, and join the Zoom meeting room 5 minutes before the group starting time. For example, students in Group 1 join the Zoom meeting by 12:40 pm.
   * Wait in the waiting room, until invited by the instructor.
+  
 * You can practice with the attached jupyter notebook.
+  
+* The pdf version of the list of questions are included in this repo, and your own copy of OneNote has been distributed to your OneDrive.
   
   
 
