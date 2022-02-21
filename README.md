@@ -43,8 +43,9 @@
 | 11:20 | Ma        | Kai            |
 | 11:26 | Benevento | Nick           |
 | 11:32 | Husson    | Patrick        |
-| 11:38 | Alaee     | Shaho          |
+| ~~11:38~~ | ~~Alaee~~     | ~~Shaho~~          |
 | 11:44 | Shah      | Shivam         |
+
 
  * Group 4: 12:00 pm - 12:24 pm (arrive by 11:50 am)
  
@@ -54,3 +55,11 @@
 | 12:06 | Chen      | Xiaoyang       |
 | 12:12 | Sun       | Yanlong        |
 | 12:18 | Yuan      | Zhuobin        |
+
+* Group 5
+
+| Time  | Last Name | First Name     | Zoom |
+|:----- |:----------|:---------------|:-----|
+| 12:30 | Alaee     | Shaho          | [https://gwu-edu.zoom.us/j/7268532775](https://gwu-edu.zoom.us/j/7268532775) |
+
+
