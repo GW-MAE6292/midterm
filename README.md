@@ -44,7 +44,7 @@
   | 11:20 | Li         | Tom        |
   | 11:26 | Simon      | Karl       |
   | 11:32 | Brown      | Jack       |
-  | 12:30 | Khoueiry   | Michel     |
+  | 11:38 | Khoueiry   | Michel     |
   | 11:44 | Amin       | Saiful     |
 
  * Group 4: 12:00 pm - 12:24 pm (arrive by 11:50 am)
@@ -57,7 +57,7 @@
   | 12:18 | Hawa      | Tala       |
   | 12:24 | Murphy    | Bill       |
 
-* Group 5: Monday 4th
+* (Group 5: Monday 4th)
 
 | Time  | Last Name | First Name     | 
 |:----- |:----------|:---------------|
