@@ -2,7 +2,7 @@
 
 ### Exam Schedule
 
- * Date:   Friday, February 26th 
+ * Date:   Friday, Marsh 1st
 
  * Location: SEH 3605 (conference room at the west wing of the 3rd floor of SEH)
 
@@ -16,50 +16,46 @@
 
 ### Group 
 
- * Group 1: 10:00 am -10:30 am (arrive by 9:50 am)
+* Group 1: 10:00 am -10:30 am (arrive by 9:50 am)
 
-| Time  | Last Name | First Name     |
-|:----- |:----------|:---------------|
-| 10:00 | Taye      | Abenezer Girma |
-| 10:06 | McCormack | Brendan        |
-| 10:12 | Peeke     | Charles        |
-| 10:18 | Zhao      | Zhenhao        |
-| 10:24 | Chen      | Han            |
+  |       | Last Name | First Name |
+  | ----- | --------- | ---------- |
+  | 10:00 | Fang      | Joey       |
+  | 10:06 | Welch     | Joshua     |
+  | 10:12 | Sui       | Zhiyuan    |
+  | 10:18 | Rafati    | Ryan       |
+  | 10:24 | Solomon   | Halen      |
 
- * Group 2: 10:40 am - 11:10 am (arrive by 10:30 am) 
-
-| Time  | Last Name | First Name     |
-|:----- |:----------|:---------------|
-| 10:40 | Xu        | Zhihao         |
-| 10:46 | Tullar    | Iris           |
-| 10:52 | Manning   | Justine        |
-| 10:58 | Lee       | Jonathan       |
-| 11:04 | Zou       | Kaige          |
+* Group 2: 10:40 am - 11:10 am (arrive by 10:30 am) 
+  |       | Last Name  | First Name         |
+  | ----- | ---------- | ------------------ |
+  | 10:40 | Khalil     | Sereen             |
+  | 10:46 | Antony     | Munyaradzi Pepukai |
+  | 10:52 | Nyaringo   | Joshua             |
+  | 10:58 | Yamakaitis | Mark               |
+  | 11:04 | Beigi      | Pedram             |
 
  * Group 3: 11:20 am - 11:50 am (arrive by 11:10 am)
-
-| Time  | Last Name | First Name     |
-|:----- |:----------|:---------------|
-| 11:20 | Ma        | Kai            |
-| 11:26 | Benevento | Nick           |
-| 11:32 | Husson    | Patrick        |
-| ~~11:38~~ | ~~Alaee~~     | ~~Shaho~~          |
-| 11:44 | Shah      | Shivam         |
-
+  |       | Last Name | First Name |
+  | ----- | --------- | ---------- |
+  | 11:20 | Li        | Tom        |
+  | 11:26 | Simon     | Karl       |
+  | 11:32 | Brown     | Jack       |
+  | 12:30 | Khoueiry  | Michel     |
+  | 11:44 | Amin      | Saiful     |
 
  * Group 4: 12:00 pm - 12:24 pm (arrive by 11:50 am)
- 
-| Time  | Last Name | First Name     |
-|:----- |:----------|:---------------|
-| 12:00 | Moon      | Tony           |
-| 12:06 | Chen      | Xiaoyang       |
-| 12:12 | Sun       | Yanlong        |
-| 12:18 | Yuan      | Zhuobin        |
+  |       | Last Name | First Name |
+  | ----- | --------- | ---------- |
+  | 12:00 | Vu        | Can        |
+  | 12:06 | Tabrizian | Amin       |
+  | 12:12 | Doney     | Noah       |
+  | 12:18 | Hawa      | Tala       |
+  | 12:24 | Murphy    | Bill       |
 
-* Group 5
+* Group 5: Monday 4th
 
-| Time  | Last Name | First Name     | Zoom |
-|:----- |:----------|:---------------|:-----|
-| 12:30 | Alaee     | Shaho          | [https://gwu-edu.zoom.us/j/7268532775](https://gwu-edu.zoom.us/j/7268532775) |
-
+  | Time  | Last Name | First Name     | 
+  |:----- |:----------|:---------------|
+  | 10:00 | Kraekel   | Ashley         |
 
