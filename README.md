@@ -2,7 +2,7 @@
 
 ### Exam Schedule
 
- * Date:   Friday, Marsh 7st
+ * Date:   Friday, March 7th
 
  * Location: SEH 3605 (conference room at the west wing of the 3rd floor of SEH)
 
