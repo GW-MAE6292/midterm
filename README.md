@@ -10,8 +10,8 @@
 
    * There will be **five** quesions randomly chosen from the sample questions, and **each question** should be answered within **one minute**.
    * Exam will be **recorded** via Zoom.
-   * Class is divided into four groups as shown below. 
-   * Come to the open area in the west side of the conference room, **10 minutes before the starting time of the group**. For example, students in Group 1 should arrive by 9:30 am.
+   * Class is divided into multiple groups as shown below. 
+   * Come to the open area in the west side of the conference room, **10 minutes before the starting time of the group**. For example, all students in Group 1 should arrive by 9:30 am.
    * Wait at the rest area until invited by the instructor.
    * The schedule is randomly chosen by Excel. 
 
