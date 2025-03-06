@@ -4,7 +4,7 @@
 
  * Date:   Friday, March 7th
 
- * Location: SEH 3605 (conference room at the west wing of the 3rd floor of SEH)
+ * Location: SEH ~~3605~~ <span style="color:red">3990</span>
 
 ### Exam Format: in-person oral exam
 
