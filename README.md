@@ -1,66 +1,66 @@
-# MAE6292 Midterm Exam
+# MAE6292 Midterm Exam Schedule  
+**Date:** Friday, March 6  
+**Location:** SEH 3605
 
-### Exam Schedule
+## Exam Format: In-person oral exam  
+* There will be **five** quesions randomly chosen from the sample questions listed at OneNote, and **each question** should be answered within **one minute**.
+* Exam will be **recorded** via Zoom.
+* Class is divided into multiple groups as shown below. 
+* Come to the open area in the west side of the conference room, **10 minutes before the starting time of the group**. For example, all students in Group 1 should arrive by 9:50 am.
+* Wait at the rest area until invited by the instructor.
 
- * Date:   Friday, March 7th
+---
 
- * Location: SEH ~~3605~~ <span style="color:red">3990</span>
+## Group 1 (10:00 – 10:30 am)  
+**Arrival Time:** 9:50 am  
 
-### Exam Format: in-person oral exam
+| Time        | Student |
+|-------------|----------|
+| 10:00 am    | Sizhe Tang |
+| 10:06 am    | Isabella Opoku-Ware |
+| 10:12 am    | James Ashby |
+| 10:18 am    | Mason Huslig |
+| 10:24 am    | Yasmin Pang |
 
-   * There will be **five** quesions randomly chosen from the sample questions, and **each question** should be answered within **one minute**.
-   * Exam will be **recorded** via Zoom.
-   * Class is divided into multiple groups as shown below. 
-   * Come to the open area ~~in the west side of the conference room~~ between the entrace of the west wing and the elevator, **10 minutes before the starting time of the group**. For example, all students in Group 1 should arrive by 9:30 am.
-   * Wait at the rest area until invited by the instructor.
-   * The schedule is randomly chosen by Excel. 
+---
 
-### Group 
+## Group 2 (10:40 – 11:10 am)  
+**Arrival Time:** 10:30 am  
 
-* Group 1: 9:40 am - 10:10 am (arrive by 9:30 am)
+| Time        | Student |
+|-------------|----------|
+| 10:40 am    | Rachit Das |
+| 10:46 am    | Justin Mittereder |
+| 10:52 am    | Yu Li |
+| 10:58 am    | Dominic Savarino |
+| 11:04 am    | Jaden Shin |
 
-| Time  | Last Name | First Name |
-| ----- | --------- | ---------- |
-| 9:40  | Kim       | Yonghyun   |
-| 9:46  | Soe       | Min Thiha  |
-| 9:52  | Song      | Shuaiqi    |
-| 9:58  | Zhang     | Xin        |
-| 10:04 | Yang      | Zeyuan     |
+---
 
-* Group 2: 10:20 am - 10:50 am (arrive by 10:10 am) 
+## Group 3 (11:20 – 11:50 am)  
+**Arrival Time:** 11:10 am  
 
-| Time  | Last Name | First Name |
-| ----- | --------- | ---------- |
-| 10:20 | Robbins   | Kevin      |
-| 10:26 | Mahdu     | Indumathi  |
-| 10:32 | Yao       | Ruijie     |
-| 10:38 | Narendran | Tejaaswini |
-| 10:44 | Enloe     | Eric       |
+| Time        | Student |
+|-------------|----------|
+| 11:20 am    | Shrenik Borad |
+| 11:26 am    | Olamide Oluwalade |
+| 11:32 am    | Julian O'Neill |
+| 11:38 am    | Dao Vu |
+| 11:44 am    | Sudeep Khandekar |
 
- * Group 3: 11:00 am - 11:30 am (arrive by 10:50 am)
+---
 
-| Time  | Last Name | First Name |
-| ----- | --------- | ---------- |
-| 11:00 | Zongo     | Alex       |
-| 11:06 | Vasilev   | Alex       |
-| 11:12 | Zhang     | Zuyuan     |
-| 11:18 | Chou      | Ian        |
-| 11:24 | Prabhu    | Prathamesh |
+## Group 4 (12:00 – 12:18 pm)  
+**Arrival Time:** 11:50 am  
 
- * Group 4: 11:40 am - 12:10 pm (arrive by 11:30 am)
+| Time        | Student |
+|-------------|----------|
+| 12:00 pm    | Aalekh Bukhariya |
+| 12:06 pm    | David Vasser |
+| 12:12 pm    | Nathaniel Donkor |
 
-| Time  | Last Name  | First Name |
-| ----- | ---------- | ---------- |
-| 11:40 | Liu        | Cheng      |
-| 11:46 | Aziz       | Arsyi      |
-| 11:52 | Ghazanfari | Mahyar     |
-| 11:58 | Zhang      | Yueyao     |
-| 12:04 | Lu         | Haoyu      |
+---
 
-* Group 4: 12:20 pm - (arrive by 12:10 pm)
-
-| Time  | Last Name   | First Name |
-| ----- | ----------- | ---------- |
-| 12:20 | Harwood     | Adam       |
-| 12:26 | Almuwayshir | Abdul      |
+Please review the sample questions carefully and be prepared to respond concisely.  
+If you have a scheduling conflict, notify the instructor as soon as possible.
 
